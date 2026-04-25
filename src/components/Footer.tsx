@@ -63,7 +63,7 @@ export default function Footer() {
                   photo@zhoydik.ru
                 </a>
               </div>
-              <p className="text-white text-sm sm:text-base">{new Date().getFullYear()} Sergei Zhoydik Photography</p>
+              <p className="text-white text-sm sm:text-base">{new Date().getFullYear()} Sergey Zhoydik Photography</p>
             </div>
           </div>
         </div>

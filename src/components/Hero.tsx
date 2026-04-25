@@ -30,7 +30,7 @@ export default function Hero() {
           Photography
         </p>
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6 leading-none">
-          SERGEI<br />ZHOYDIK
+          SERGEY<br />ZHOYDIK
         </h1>
         <p className="text-lg md:text-xl max-w-xl mx-auto px-6 opacity-80 font-light">
           Каждый кадр — это история. Портрет, пейзаж, момент — живые и настоящие.
