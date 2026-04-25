@@ -52,13 +52,13 @@ export default function Footer() {
               </div>
             </div>
             <div className="flex flex-col sm:flex-row justify-between items-start sm:items-end gap-4 sm:gap-0">
-              <div className="flex flex-col">
-                <h1 className="text-[12vw] sm:text-[11vw] lg:text-[9vw] leading-[0.8] mt-4 sm:mt-6 lg:mt-10 text-white font-bold tracking-tight">
+              <div className="flex items-end gap-4 mt-4 sm:mt-6 lg:mt-10">
+                <h1 className="text-[12vw] sm:text-[11vw] lg:text-[9vw] leading-[0.8] text-white font-bold tracking-tight">
                   ZHOYDIK
                 </h1>
                 <a
                   href="mailto:photo@zhoydik.ru"
-                  className="text-neutral-400 hover:text-white transition-colors duration-300 text-sm sm:text-base mt-2"
+                  className="text-neutral-400 hover:text-white transition-colors duration-300 leading-[0.8] pb-[0.05em] text-[6vw] sm:text-[5.5vw] lg:text-[4.5vw]"
                 >
                   photo@zhoydik.ru
                 </a>
